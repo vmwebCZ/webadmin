@@ -1,0 +1,4 @@
+AuthUserFile /var/www/admin/.htpasswd
+AuthName "Heslo pro pristup"
+AuthType Basic
+Require valid-user
